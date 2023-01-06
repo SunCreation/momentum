@@ -1,0 +1,23 @@
+.output {
+    border: 1px solid black;
+    position: relative;
+    background-color: #888;
+    width: 60%;
+    height: 100px;
+    transition: margin-left 4s, color 1s;
+}
+.content {
+    margin: 20%;
+    transition: margin-left 4s, color 1s;
+}
+output {
+    margin: 5px;
+    transition: all 2s ease-out;
+
+}
+.hidden {
+    display: none;
+
+    /* transition: 2s ease-in-out; */
+    
+}

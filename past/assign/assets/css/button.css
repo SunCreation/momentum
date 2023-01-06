@@ -1,0 +1,16 @@
+.btn { 
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    background: rgb(224,238,224);
+    border: solid 1px rgb(108, 131, 104);
+    border-radius: 3px;
+    padding: 0px 6px 6px 6px;
+    writing-mode: horizontal-tb !important;
+    cursor: pointer;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none
+}
